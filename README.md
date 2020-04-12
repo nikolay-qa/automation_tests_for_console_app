@@ -1,0 +1,1 @@
+# automation_tests_for_console_app
